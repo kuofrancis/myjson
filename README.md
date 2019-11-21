@@ -1,2 +1,2 @@
 # myjson
-# Visit https://my-json-server.typicode.com/<your-username>/<your-repo> to access.
+Visit https://my-json-server.typicode.com/kuofrancis/myjson to access.
